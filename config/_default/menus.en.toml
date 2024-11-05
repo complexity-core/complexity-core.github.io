@@ -21,11 +21,25 @@ name = "Blog"
 url = "/blog"
 weight = 4
 
+[[main]]
+name = "Events"
+url = "/events"
+weight=5
+
 
 # footer menu
 [[footer]]
 name = "About"
 url = "/about"
 weight = 1
+
+[[footer]]
+name = "Organizations"
+url = "/organizations"
+
+[[footer]]
+name = "Contributors"
+url = "/authors"
+
 
 
