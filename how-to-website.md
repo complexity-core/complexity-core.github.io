@@ -24,3 +24,14 @@ Relevant folders
 │   │   ├── _index.md
 ```
 
+## Add a new organization
+1. create an `org-name.md` file in the folder `content/english/organizations`, copying the structure of the ones already there.
+2. add logo to the folder `assets/images/organizations_logos`.
+
+## Add a new contributors
+1. create an `contrib-name.md` file in the folder `content/english/authors`, copying the 
+structure of the ones already there.
+2. add logo to the folder `assets/images/contributors_photos`.
+
+## Add a new calendar event 
+1. TBD, probably through google cal?
