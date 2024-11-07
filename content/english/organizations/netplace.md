@@ -1,7 +1,7 @@
 ---
 title: NetPlace
 email: johndoe@email.com
-image: "/images/netplace_logo.png"
+image: "/images/organizations_logos/netplace_logo.png"
 description: this is meta description
 social:
   - name: github

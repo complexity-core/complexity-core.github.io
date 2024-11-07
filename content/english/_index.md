@@ -2,8 +2,8 @@
 # Banner
 banner:
   title: "Welcome to CoRe"
-  content: "Core is an organization for all things complex systems."
-  image: "/images/core_logo.png"
+  content: "Complexity and Networks COmmunity and REsources is an organization for ..."
+  image: "/images/core_logos/logo.png"
   button:
     enable: false
     label: "Get Started For Free"
