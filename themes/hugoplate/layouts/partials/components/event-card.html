@@ -1,0 +1,11 @@
+<div class="event-card">
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <p>Date: {{ .Date.Format "January 2, 2006" }}</p>
+    {{ with .Params.location }}
+      <p>Location: {{ . }}</p>
+    {{ end }}
+    {{ with .Params.description }}
+      <p>{{ . }}</p>
+    {{ end }}
+  </div>
+  

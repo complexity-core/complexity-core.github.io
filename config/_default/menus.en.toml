@@ -17,14 +17,27 @@ url = "/organizations"
 weight = 3
 
 [[main]]
-name = "Blog"
-url = "/blog"
-weight = 4
-
-[[main]]
 name = "Events"
 url = "/events"
-weight=5
+weight=4
+
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 5
+
+[[main]]
+parent = "More"
+name = "Blog"
+url = "blog"
+weight = 5
+
+[[main]]
+parent = "More"
+name = "Contributors"
+url = "/authors"
+weight = 6
+
 
 
 # footer menu

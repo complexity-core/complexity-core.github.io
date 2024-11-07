@@ -1,0 +1,39 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+
+  <section class="section">
+    <div class="container">
+      
+      <!-- Display Upcoming Events -->
+      <div class="row">
+        <h2>Upcoming Events</h2>
+        {{ $upcomingEvents := where .RegularPages "Params.date" "ge" now }}
+        {{ if gt (len $upcomingEvents) 0 }}
+          {{ range sort $upcomingEvents ".Params.date" "asc" }}
+            <div class="md:col-6 lg:col-4 mb-14">
+              {{ partial "components/event-card" . }}
+            </div>
+          {{ end }}
+        {{ else }}
+          <p>No upcoming events.</p>
+        {{ end }}
+      </div>
+
+      <!-- Display Past Events -->
+      <div class="row mt-10">
+        <h2>Past Events</h2>
+        {{ $pastEvents := where .RegularPages "Params.date" "lt" now }}
+        {{ if gt (len $pastEvents) 0 }}
+          {{ range sort $pastEvents ".Params.date" "desc" }}
+            <div class="md:col-6 lg:col-4 mb-14">
+              {{ partial "components/event-card" . }}
+            </div>
+          {{ end }}
+        {{ else }}
+          <p>No past events.</p>
+        {{ end }}
+      </div>
+
+    </div>
+  </section>
+{{ end }}
