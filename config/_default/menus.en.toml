@@ -38,7 +38,11 @@ name = "Contributors"
 url = "/authors"
 weight = 6
 
-
+[[main]]
+parent = "More"
+name = "Calendar"
+url = "/calendar"
+weight = 7
 
 # footer menu
 [[footer]]
