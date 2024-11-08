@@ -22,6 +22,9 @@ Relevant folders
 │   │   ├── pages
 │   │   ├── sections
 │   │   ├── _index.md
+├── data
+│   ├── social.json (change here the social media links of the organization)
+│   ├── theme.json (change the website theme and colors)
 ```
 
 ## Add a new organization
@@ -34,4 +37,4 @@ structure of the ones already there.
 2. add logo to the folder `assets/images/contributors_photos`.
 
 ## Add a new calendar event 
-1. TBD, probably through google cal?
+1. add the event in Google Calendar, it will automatically appear in the website.
