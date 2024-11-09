@@ -25,6 +25,14 @@ Relevant folders
 ├── data
 │   ├── social.json (change here the social media links of the organization)
 │   ├── theme.json (change the website theme and colors)
+├── themes
+│   ├── hugoplate
+│   |   ├── layout
+│   |   |    ├── index.html (home page layout)
+│   |   |    ├── organizations (below applies also to other folders such as "authors")
+│   |   |    |    ├── list.html (layout of the list of organization cards on the corresponding page)
+│   |   |    |    ├── single.html (layout of each organization's separate page)
+│   |   |    ├── partials (layout for part of a page, which can be used in other layouts with a `{{ partial ... }}` block)
 ```
 
 ## Add a new organization
