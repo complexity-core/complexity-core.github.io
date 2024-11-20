@@ -1,7 +1,7 @@
 ---
 title: Elena Candellone
 email: e.candellone@uu.nl
-image: "/assets./images/contributors-pictures/elena-candellone.jpeg"
+image: "/images/contributors_pictures/elena-candellone.jpeg"
 description: PhD Candidate at Utrecht University
 social:
   - name: github
