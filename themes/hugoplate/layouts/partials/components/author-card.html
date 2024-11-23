@@ -1,11 +1,23 @@
 <div
   class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center">
   {{ $image:= .Params.image }}
+  {{ $website:= .Params.website }}
   {{ if $image }}
-    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded" "size" "120x120") }}
+    {{ if $website }}
+      <a href="{{ $website }}">
+    {{ end }}
+    {{ if $website }}
+      </a>
+    {{ end }}
   {{ end }}
   <h4 class="mb-3">
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ if $website }}
+      <a href="{{ $website }}">
+    {{ end }}
+      {{ .Title }}
+    {{ if $website }}
+    </a>
+    {{ end }}
   </h4>
   <p class="mb-4">
     {{ .Summary }}
