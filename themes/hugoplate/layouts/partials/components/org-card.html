@@ -1,0 +1,36 @@
+<div
+  class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center">
+  {{ $image:= .Params.image }}
+  {{ $website:= .Params.website }}
+  {{ if $image }}
+    {{ if $website }}
+      <a href="{{ $website }}">
+    {{ end }}
+    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded") }}
+    {{ if $website }}
+      </a>
+    {{ end }}
+  {{ end }}
+  <h4 class="mb-3">
+    {{ if $website }}
+      <a href="{{ $website }}">
+    {{ end }}
+    {{ .Title }}
+    {{ if $website }}
+      </a>
+    {{ end }}
+  </h4>
+  <p class="mb-4">
+    {{ .Summary }}
+  </p>
+  <ul class="social-icons mt-4">
+    {{ range .Params.social }}
+      <li>
+        <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow">
+          <span class="sr-only">{{ .title }}</span>
+          <i class="{{ .icon }}"></i>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</div>
