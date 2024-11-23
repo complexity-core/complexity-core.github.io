@@ -3,6 +3,7 @@ title: WINS
 email: samwilson@email.com
 image: "/images/avatar.png"
 description: this is meta description
+website: https://sites.google.com/view/womeninnetworkscience/
 social:
   - name: github
     icon: fa-brands fa-github

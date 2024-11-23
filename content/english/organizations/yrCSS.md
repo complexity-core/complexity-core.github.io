@@ -1,6 +1,7 @@
 ---
 title: yrCSS
 image: "/images/organizations_logos/yrCSS.svg"
+website: https://yrcss.cssociety.org
 social:
   - name: mastodon
     icon: fa-brands fa-mastodon
