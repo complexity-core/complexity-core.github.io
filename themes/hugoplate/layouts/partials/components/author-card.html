@@ -6,6 +6,7 @@
     {{ if $website }}
       <a href="{{ $website }}">
     {{ end }}
+    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded-full" "Size" "190x190") }}
     {{ if $website }}
       </a>
     {{ end }}
