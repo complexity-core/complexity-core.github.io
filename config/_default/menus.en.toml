@@ -7,7 +7,6 @@ url = "/"
 weight = 1
 
 [[main]]
-parent = "More"
 name = "Calendar"
 url = "/calendar"
 weight = 2
