@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Welcome to CoRe"
+  title: "Welcome to CORE"
   content: "Complexity and Networks COmmunity and REsources is an organization for ..."
   image: "/images/core_logos/logo.png"
   button:
