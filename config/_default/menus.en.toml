@@ -12,28 +12,21 @@ url = "/calendar"
 weight = 2
 
 [[main]]
-name = "About"
-url = "/about"
+name = "Community"
+url = "/community"
 weight = 3
 
 [[main]]
-name = "Organizations"
-url = "/organizations"
+name = "Resources"
+url = "/resources"
 weight = 4
 
 [[main]]
-name = "Contact"
-url = "/contact"
+name = "About"
+url = "/about"
 weight = 5
 
 [[main]]
-parent = "More"
-name = "Blog"
-url = "blog"
-weight = 6
-
-[[main]]
-parent = "More"
 name = "Contributors"
 url = "/authors"
 weight = 6
