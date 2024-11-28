@@ -7,19 +7,20 @@ url = "/"
 weight = 1
 
 [[main]]
+parent = "More"
+name = "Calendar"
+url = "/calendar"
+weight = 2
+
+[[main]]
 name = "About"
 url = "/about"
-weight = 2
+weight = 3
 
 [[main]]
 name = "Organizations"
 url = "/organizations"
-weight = 3
-
-[[main]]
-name = "Events"
-url = "/events"
-weight=4
+weight = 4
 
 [[main]]
 name = "Contact"
@@ -30,33 +31,12 @@ weight = 5
 parent = "More"
 name = "Blog"
 url = "blog"
-weight = 5
+weight = 6
 
 [[main]]
 parent = "More"
 name = "Contributors"
 url = "/authors"
 weight = 6
-
-[[main]]
-parent = "More"
-name = "Calendar"
-url = "/calendar"
-weight = 7
-
-# footer menu
-[[footer]]
-name = "About"
-url = "/about"
-weight = 1
-
-[[footer]]
-name = "Organizations"
-url = "/organizations"
-
-[[footer]]
-name = "Contributors"
-url = "/authors"
-
 
 
