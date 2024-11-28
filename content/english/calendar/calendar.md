@@ -1,6 +1,5 @@
 ---
 title: "Calendar"
-linkTitle: "Calendar"
 weight: 150
 description: >-
      Calendar Snapshot
