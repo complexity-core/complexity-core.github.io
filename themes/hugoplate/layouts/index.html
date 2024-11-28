@@ -53,8 +53,10 @@
 
           <div></div>
           <div id="core" class="flex col-start-2 col-span-3 justify-center content-center">
+            <a href="about">
               {{ $image := resources.Get "images/core_logos/core.svg" }}
-              <img id="core" src="{{ $image.RelPermalink }}" class="" width="400">
+              <img id="core" src="{{ $image.RelPermalink }}" class="transition-transform duration-300 transform hover:scale-110" width="400">
+            </a>
           </div>
           <div></div>
 
