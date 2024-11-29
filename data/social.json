@@ -3,12 +3,16 @@
     {
       "name": "discord",
       "icon": "fab fa-discord",
-      "link": "https://discord.gg/gMgCCGXW"
+      "link": "https://discord.gg/gMgCCGXW",
+      "in_header": true,
+      "action": "Join us"
     },
     {
       "name": "bluesky",
       "icon": "fab fa-bluesky",
-      "link": "https://bsky.app/"
+      "link": "https://bsky.app/",
+      "in_header": true,
+      "action": "Follow us"
     },
     {
       "name": "github",
