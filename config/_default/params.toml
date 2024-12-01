@@ -57,7 +57,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 keywords = ["Complexity", "Network", "Science", "Community", "Resources", "Organization"]
 description = "A hub for the Complexity and Network Science community to gather and share resources."
 author = "CORE Team"
-image = "images/core_logos/core.png"
+image = "images/core_logos/social_media_card.jpg"
 
 
 # site verifications
