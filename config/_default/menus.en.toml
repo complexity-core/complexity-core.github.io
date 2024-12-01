@@ -24,11 +24,4 @@ weight = 4
 [[main]]
 name = "About"
 url = "/about"
-weight = 5
-
-[[main]]
-name = "Contributors"
-url = "/authors"
-weight = 6
-
-
+weight = 10

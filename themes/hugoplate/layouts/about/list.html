@@ -1,17 +1,27 @@
 {{ define "main" }}
   {{ partial "page-header" . }}
-  <section class="section-sm">
+  <section class="section-sm pb-0">
     <div class="container">
       <div class="row justify-center">
         <div class="text-left">
           <div class="content">{{ .Content }}</div>
         </div>
       </div>
-      <div class="row">
+      <div class="row my-7">
         <h2>CORE Organizations</h2>
-        {{ range .RegularPages }}
+        {{ $orgs := where site.RegularPages "Section" "organizations" }}
+        {{ range $orgs }}
           <div class="md:col-6 lg:col-4 mt-5">
             {{ partial "components/org-card" . }}
+          </div>
+        {{ end }}
+      </div>
+      <div class="row my-7">
+        <h2>Contributors</h2>
+        {{ $authors := where site.RegularPages "Section" "authors" }}
+        {{ range $authors }}
+          <div class="md:col-6 lg:col-4 mt-5">
+            {{ partial "components/author-card" . }}
           </div>
         {{ end }}
       </div>
