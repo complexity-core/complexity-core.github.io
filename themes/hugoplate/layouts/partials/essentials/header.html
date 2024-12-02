@@ -29,7 +29,7 @@
     <!-- main navbar -->
     <ul
       id="nav-menu"
-      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8">
+      class="navbar-nav order-3 hidden lg:flex w-full lg:order-1 lg:w-auto lg:space-x-2 xl:space-x-8">
       {{ $currentPage := . }}
       {{ range site.Menus.main }}
         {{ $menuURL := .URL | absLangURL }}
@@ -97,7 +97,7 @@
       {{ end }}
       {{ range site.Data.social.main }}
         {{ if .in_header }}
-          <li class="mt-4 inline-block lg:hidden">
+          <li class="mt-2 mb-6 lg:hidden">
             <a
               class="btn btn-outline-primary btn-sm"
               target="_blank"
