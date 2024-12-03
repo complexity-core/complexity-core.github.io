@@ -1,7 +1,7 @@
 ---
 title: WWCS
 email: wwcs.steering@gmail.com
-image: "/images/organizations_logos/wwcs.png"
+image: "/images/organizations_logos/WWCS_10Years_Transparent.png"
 description: winter workshop on complex systems
 website: https://wwcs2025.github.io/
 social:
