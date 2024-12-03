@@ -1,7 +1,7 @@
 ---
 title: WINS
 email: wins.society@gmail.com
-image: "/images/wins.png"
+image: "/images/wins.jpg"
 description: women in network science
 website: https://sites.google.com/view/womeninnetworkscience/
 social:
