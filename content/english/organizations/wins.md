@@ -1,21 +1,14 @@
 ---
 title: WINS
-email: samwilson@email.com
-image: "/images/avatar.png"
-description: this is meta description
+email: wins.society@gmail.com
+image: "/images/wins.png"
+description: women in network science
 website: https://sites.google.com/view/womeninnetworkscience/
 social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com
-
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+    link: https://x.com/WiNS_Society
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Women in Network Science (WiNS) Society's mission is to foster opportunities for education, employment, and career advancement of women, trans and non-binary genders in network science.
+The Society is dedicated to recognizing and promoting the work, perspectives, and expertise of network scientists who identify as underrepresented genders in the field. The Society intends to increase the visibility of these individuals in academia, government, and private industry, and improve gender representation in network science broadly.
