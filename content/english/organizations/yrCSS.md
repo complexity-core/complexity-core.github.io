@@ -1,6 +1,6 @@
 ---
 title: yrCSS
-image: "/images/organizations_logos/yrCSS.svg"
+image: "/images/organizations_logos/yrCSS_no_margins.svg"
 website: https://yrcss.cssociety.org
 social:
   - name: mastodon

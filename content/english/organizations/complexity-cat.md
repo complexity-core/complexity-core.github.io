@@ -1,7 +1,7 @@
 ---
 title: Complexity Cat
 email: alpez@binghamton.edu
-image: "/images/organizations_logos/complexity-cat-logo.svg"
+image: "/images/organizations_logos/complexity-cat-logo_no_vmargins.png"
 description: Dialectics and autopoietic aphorisms
 website: https://amahury.github.io/
 social:

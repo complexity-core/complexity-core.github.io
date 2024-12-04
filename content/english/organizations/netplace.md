@@ -1,7 +1,7 @@
 ---
 title: NetPlace
 email: johndoe@email.com
-image: "/images/organizations_logos/netplace_logo.png"
+image: "/images/organizations_logos/netplace_icon.svg"
 description: this is meta description
 website: https://sites.google.com/view/netplace/
 social:
