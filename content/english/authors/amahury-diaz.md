@@ -1,7 +1,7 @@
 ---
 title: Amahury J. L. Diaz
 email: alpez@binghamton.edu
-image: "/images/contributors_pictures/amahury-diaz.jpeg"
+image: "/images/contributors_pictures/amahury-diaz.jpg"
 description: PhD Candidate at SUNY Binghamton
 website: https://amahury.github.io/about/
 social:
