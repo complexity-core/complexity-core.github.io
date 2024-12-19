@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Welcome to CORE"
-  content: "Complexity and Networks COmmunity and REsources (CORE) is an organization that aims to connecting scientists and organizations in the fields of Complexity and Network Science."
+  content: "Complexity and Networks COmmunity and REsources (CORE) is an organization that aims to connect scientists and organizations in the fields of Complexity and Network Science."
   image: "/images/core_logos/logo.png"
   button:
     enable: false
