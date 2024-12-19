@@ -16,6 +16,3 @@ social:
     icon: fa-brands fa-linkedin
     link: https://linkedin.com
 ---
-
-Gabriele is the organizer with NetPlace. He does X,Y,Z, blah blah blah.
-
