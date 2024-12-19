@@ -10,7 +10,7 @@
     {
       "name": "bluesky",
       "icon": "fab fa-bluesky",
-      "link": "https://bsky.app/",
+      "link": "https://bsky.app/profile/complexity-core.bsky.social",
       "in_header": true,
       "action": "Follow us"
     },
