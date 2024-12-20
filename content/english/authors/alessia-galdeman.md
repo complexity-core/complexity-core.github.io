@@ -1,7 +1,7 @@
 ---
 title: Alessia Galdeman
 email: gald@itu.dk
-image: "/images/contributors_pictures/alessia-galdeman.jpeg"
+image: "/images/contributors_pictures/alessia-galdeman.jpg"
 description: PostDoc at IT University Copenhagen
 website: https://alessiaatunimi.github.io
 social:
