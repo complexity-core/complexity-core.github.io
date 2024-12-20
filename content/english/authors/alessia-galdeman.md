@@ -1,6 +1,6 @@
 ---
-title: Elena Candellone
-email: e.candellone@uu.nl
+title: Alessia Galdeman
+email: gald@itu.dk
 image: "/images/contributors_pictures/alessia-galdeman.jpeg"
 description: PostDoc at IT University Copenhagen
 website: https://alessiaatunimi.github.io
