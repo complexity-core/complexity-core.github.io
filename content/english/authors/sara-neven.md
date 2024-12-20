@@ -8,8 +8,8 @@ social:
     icon: fab fa-bluesky
     link: https://bsky.app/profile/saraneven.bsky.social
   - name: linkedin
-  - icon: fa-brands fa-linkedin
-  - link: 
+    icon: fa-brands fa-linkedin
+    link: https://www.linkedin.com/in/sara-linde-neven-822bbb65/
   - name: github
     icon: fa-brands fa-github
     link: https://github.com/saralneven
