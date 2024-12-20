@@ -1,7 +1,7 @@
 ---
 title: Erik Weis
 email: weis.er@northeastern.edu
-image: "/images/contributors_pictures/erik-weis.jpeg"
+image: "/images/contributors_pictures/erik-weis.jpg"
 description: PhD Student at Northeastern University's Network Science Institute
 website: https://erikweis.com
 social:
