@@ -4,6 +4,7 @@ min = "0.134.3"
 
 [taxonomies]
   organization = "organizations"
+  calendar = "calendar"
 
 # [[imports]]
 # path = "github.com/zeon-studio/hugoplate"
