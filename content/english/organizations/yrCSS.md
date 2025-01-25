@@ -8,9 +8,9 @@ social:
     icon: fa-brands fa-mastodon
     link: https://datasci.social/@yrCSS
 
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com/YR_CSS
+  - name: bluesky
+    icon: fab fa-bluesky
+    link: https://bsky.app/profile/yrcss.bsky.social
 
   - name: github
     icon: fa-brands fa-github

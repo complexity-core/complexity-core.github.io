@@ -10,6 +10,10 @@ social:
     icon: fa-brands fa-github
     link: https://github.com
 
+  - name: bluesky
+    icon: fab fa-bluesky
+    link: https://bsky.app/profile/netplace.bsky.social
+
   - name: twitter
     icon: fa-brands fa-twitter
     link: https://twitter.com
