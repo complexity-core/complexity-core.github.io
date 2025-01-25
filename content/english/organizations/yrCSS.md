@@ -2,6 +2,7 @@
 title: yrCSS
 image: "/images/organizations_logos/yrCSS_no_margins.svg"
 website: https://yrcss.cssociety.org
+weight: 2
 social:
   - name: mastodon
     icon: fa-brands fa-mastodon

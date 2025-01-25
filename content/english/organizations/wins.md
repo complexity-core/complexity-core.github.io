@@ -4,6 +4,7 @@ email: wins.society@gmail.com
 image: "/images/organizations_logos/wins.svg"
 description: women in network science
 website: https://sites.google.com/view/womeninnetworkscience/
+weight: 3
 social:
   - name: twitter
     icon: fa-brands fa-twitter

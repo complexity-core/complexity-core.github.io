@@ -4,6 +4,7 @@ email: alpez@binghamton.edu
 image: "/images/organizations_logos/complexity-cat-logo_no_margins.png"
 description: Dialectics and autopoietic aphorisms
 website: https://amahury.github.io/
+weight: 4
 social:
   - name: twitter
     icon: fa-brands fa-twitter

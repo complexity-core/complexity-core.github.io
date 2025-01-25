@@ -4,6 +4,7 @@ email: wwcs.steering@gmail.com
 image: "/images/organizations_logos/WWCS_10Years_Transparent.png"
 description: winter workshop on complex systems
 website: https://wwcs2025.github.io/
+weight: 8
 social:
   - name: twitter
     icon: fa-brands fa-twitter
