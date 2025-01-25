@@ -4,6 +4,7 @@ email: johndoe@email.com
 image: "/images/organizations_logos/netplace_icon.svg"
 description: this is meta description
 website: https://sites.google.com/view/netplace/
+weight: 1
 social:
   - name: github
     icon: fa-brands fa-github
@@ -18,9 +19,8 @@ social:
     link: https://linkedin.com
 ---
 
-We organise the following activities:
-- Biweekly online seminars of one hour for early-career researchers in Complex and Network Science. In the first half of the seminar, the invited speaker (usually an early-career researcher) talks about his research (including questions). In the second half of the seminar, the speaker introduces a topic of discussion, related to a problem or difficulty in academic life and other struggles in our research field (i.e. not talking about any research though)
-- Seminars are registered and published on Youtube
-- We write a blog where we summarize the discussion of the seminar, published on our website and on Twitter/X (also have a bluesky and mastodon account)
-- Panel discussions during conferences and help running social activities in conferences (already done at NetSci2023, NetSciX2024, and NetSci2024).
-- 1-day workshop in London in late 2024 to tackle specific problems in our field (not research specific)
+The aim of NetPlace is to provide a friendly place for students and early-career researchers in Network Science from all over the world to interact.
+Not only we talk about our research developments, but also we discuss various challenges and difficulties we face in our journey to become a network scientist.
+In this spirit, we organise online seminars every two weeks across the year.
+Differently from usual seminars, after a brief research talk, our speakers share with us some difficulties encountered in their academic path.
+We also organize other in-person events where the NetPlace community can come together and make new bonds.
