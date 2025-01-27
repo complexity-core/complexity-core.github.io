@@ -8,7 +8,7 @@ weight: 1
 social:
   - name: github
     icon: fa-brands fa-github
-    link: https://github.com
+    link: https://github.com/netplacecommunity
 
   - name: bluesky
     icon: fab fa-bluesky
@@ -16,11 +16,9 @@ social:
 
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com
+    link: https://x.com/netplace_semi
 
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+  
 ---
 
 The aim of NetPlace is to provide a friendly place for students and early-career researchers in Network Science from all over the world to interact.
