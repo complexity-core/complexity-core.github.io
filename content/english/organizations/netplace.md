@@ -3,7 +3,7 @@ title: NetPlace
 email: johndoe@email.com
 image: "/images/organizations_logos/netplace_icon.svg"
 description: this is meta description
-website: https://sites.google.com/view/netplace/
+website: https://netplace.site
 weight: 1
 social:
   - name: github
