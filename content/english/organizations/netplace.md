@@ -6,10 +6,7 @@ description: this is meta description
 website: https://netplace.site
 weight: 1
 social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com/netplacecommunity
-
+  
   - name: bluesky
     icon: fab fa-bluesky
     link: https://bsky.app/profile/netplace.bsky.social
