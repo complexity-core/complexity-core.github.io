@@ -12,7 +12,7 @@ title: "Resources"
 
 ## I need.. 
 
-{{< accordion " to meet my community" >}}
+{{< accordion  "<i class='fa-solid fa-users'></i>to meet my community" >}}
 - **[WWCS](https://wwcs2025.github.io)** is a one-week workshop where young researchers worldwide come together to work on interdisciplinary projects around complex system.
 - **[Complexity72h](https://complexity72h.com)** is an interdisciplinary workshop for young researchers in complex systems.
 - **[Lake Como School of Advanced Studies](https://lakecomoschool.org/schools/)** 
@@ -26,18 +26,18 @@ title: "Resources"
 
 {{< /accordion >}}
 
-{{< accordion "a position" >}}
+{{< accordion "<i class='fa-solid fa-award'></i>a position" >}}
 - **[NetSci job page](https://www.netscisociety.net/jobs)** 
 
 {{< /accordion >}}
 
 
-{{< accordion "funding" >}}
+{{< accordion "<i class='fa-duotone fa-solid fa-coins'></i>funding" >}}
 - **[yrccs grants](https://yrcss.cssociety.org/grants/)** 
 
 {{< /accordion >}}
 
-{{< accordion "to start new collaborations" >}}
+{{< accordion "<i class='fa-solid fa-people-arrows'></i>to start new collaborations" >}}
 - **[our Discord server ](https://discord.gg/yFmVMZ29)** 
 - **[Complexity72h](https://complexity72h.com)**
 - **[Yrccs bridge grant](https://yrcss.cssociety.org/grants/bridge-grant/)**
@@ -45,7 +45,7 @@ title: "Resources"
 
 {{< /accordion >}}
 
-{{< accordion "to present my work" >}}
+{{< accordion "<i class='fa-solid fa-microphone'></i>to present my work" >}}
 - **[CCS](https://ccs25.cssociety.org)** 
 - **[NetSci](https://netsci2025.github.io)**
 - **[NetSciX](https://netscix2025.iiti.ac.in)**
@@ -54,7 +54,7 @@ title: "Resources"
 
 {{< /accordion >}}
 
-{{< accordion "to learn" >}}
+{{< accordion "<i class='fa-solid fa-book-open-reader'></i>to learn" >}}
 - **[Netsci Outreach page](https://www.netscisociety.net/outreach)** 
 - **[NetSci Colloquiom](https://www.netscisociety.net/events/colloquium)**
 
