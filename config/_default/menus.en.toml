@@ -11,10 +11,6 @@ name = "Calendar"
 url = "/calendar"
 weight = 2
 
-[[main]]
-name = "Community"
-url = "/community"
-weight = 3
 
 [[main]]
 name = "Resources"
