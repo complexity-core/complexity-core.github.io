@@ -22,6 +22,7 @@ title: "Resources"
 
 {{< accordion "<div><i class='fa-solid fa-award pr-4'></i>a position</div>" >}}
 
+- [CSS job page](https://cssociety.org/job-openings)
 - [NetSci job page](https://www.netscisociety.net/jobs)
 
 {{< /accordion >}}
@@ -52,6 +53,8 @@ title: "Resources"
 - [NetSciX](https://netscix2025.iiti.ac.in)
 - [Netsci Satellites](https://netsci2025.github.io/satellites/)
 - [CompleNet](https://complenet.weebly.com)
+- [NetPlace Seminars](https://netplace.site)
+- [WiNS Seminars](https://sites.google.com/view/womeninnetworkscience/)
 
 {{< /accordion >}}
 
