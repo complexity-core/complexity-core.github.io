@@ -10,10 +10,9 @@ title: "Resources"
 - [EMCRs' website](https://sites.google.com/view/emcrs-social-networks/) gathers relevant conferences, books, podcasts, blog posts and others, directed to early career researchers in social network analysis.
 -->
 
-## I need.. 
+{{< accordion  "<div><i class='fa-solid fa-users pr-4'></i>to meet my community</div>" >}}
 
-{{< accordion  "<i class='fa-solid fa-users'></i>to meet my community" >}}
-- **[WWCS](https://wwcs2025.github.io)** is a one-week workshop where young researchers worldwide come together to work on interdisciplinary projects around complex system.
+- **[Winter Workshop on Complex Systems](https://wwcs2025.github.io)** is a one-week workshop where young researchers worldwide come together to work on interdisciplinary projects around complex system.
 - **[Complexity72h](https://complexity72h.com)** is an interdisciplinary workshop for young researchers in complex systems.
 - **[Lake Como School of Advanced Studies](https://lakecomoschool.org/schools/)** 
 - **Santa Fe Institute Complex Systems Summer School**
@@ -26,27 +25,34 @@ title: "Resources"
 
 {{< /accordion >}}
 
-{{< accordion "<i class='fa-solid fa-award'></i>a position" >}}
-- **[NetSci job page](https://www.netscisociety.net/jobs)** 
+
+{{< accordion "<div><i class='fa-solid fa-award pr-4'></i>a position</div>" >}}
+
+- **[NetSci job page](https://www.netscisociety.net/jobs)**
 
 {{< /accordion >}}
 
 
-{{< accordion "<i class='fa-duotone fa-solid fa-coins'></i>funding" >}}
-- **[yrccs grants](https://yrcss.cssociety.org/grants/)** 
+{{< accordion "<div><i class='fa-duotone fa-solid fa-coins pr-4'></i>funding</div>" >}}
+
+- **[yrCSS grants](https://yrcss.cssociety.org/grants/)**
 
 {{< /accordion >}}
 
-{{< accordion "<i class='fa-solid fa-people-arrows'></i>to start new collaborations" >}}
-- **[our Discord server ](https://discord.gg/yFmVMZ29)** 
+
+{{< accordion "<div><i class='fa-solid fa-people-arrows pr-4'></i>to start new collaborations</div>" >}}
+
+- **[Our Discord server ](https://discord.gg/yFmVMZ29)**
 - **[Complexity72h](https://complexity72h.com)**
 - **[Yrccs bridge grant](https://yrcss.cssociety.org/grants/bridge-grant/)**
 - **[WWCS](https://wwcs2025.github.io)**
 
 {{< /accordion >}}
 
-{{< accordion "<i class='fa-solid fa-microphone'></i>to present my work" >}}
-- **[CCS](https://ccs25.cssociety.org)** 
+
+{{< accordion "<div><i class='fa-solid fa-microphone pr-4'></i>to present my work</div>" >}}
+
+- **[CCS](https://ccs25.cssociety.org)**
 - **[NetSci](https://netsci2025.github.io)**
 - **[NetSciX](https://netscix2025.iiti.ac.in)**
 - **[Netsci Satellites](https://netsci2025.github.io/satellites/)**
@@ -54,9 +60,10 @@ title: "Resources"
 
 {{< /accordion >}}
 
-{{< accordion "<i class='fa-solid fa-book-open-reader'></i>to learn" >}}
-- **[Netsci Outreach page](https://www.netscisociety.net/outreach)** 
-- **[NetSci Colloquiom](https://www.netscisociety.net/events/colloquium)**
 
+{{< accordion "<div><i class='fa-solid fa-book-open-reader pr-4'></i>to learn</div>" >}}
+
+- **[NetSci Outreach page](https://www.netscisociety.net/outreach)**
+- **[NetSci Colloquium](https://www.netscisociety.net/events/colloquium)**
 
 {{< /accordion >}}
