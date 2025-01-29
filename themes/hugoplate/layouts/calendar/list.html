@@ -15,21 +15,30 @@
 
       {{ range .RegularPages }}
         <div class="row">
-          <h2>{{ .Title }}</h2>
-          <div class="items-center text-center mt-5 rounded-lg bg-[#F0F4F9] px-5 py-5">
-            <div class="flex">
-              <iframe src="https://calendar.google.com/calendar/embed?src={{ .Params.Cid }}%40group.calendar.google.com&ctz=Europe%2FAmsterdam" width=1600 height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+          <div class="accordion text-black bg-[#F0F4F9]">
+            <button class="accordion-header text-black" data-accordion="">
+            {{ .Title }}
+            <svg class="accordion-icon" x="0px" y="0px" viewBox="0 0 512 512" xmlspace="preserve">
+              <path fill="currentColor" d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+            </svg>
+            </button>
+          <div class="accordion-content">
+            <div class="items-center text-center mt-5 rounded-lg bg-[#F0F4F9] px-5 py-5">
+              <div class="flex">
+                <iframe src="https://calendar.google.com/calendar/embed?src={{ .Params.Cid }}%40group.calendar.google.com&ctz=Europe%2FAmsterdam" width=1600 height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+              </div>
+            </div>
+            <br>
+            <div class="items-center text-center mb-5">
+              <a
+              class="btn btn-primary"
+              href="https://calendar.google.com/calendar/u/0/r?cid={{ .Params.Cid }}@group.calendar.google.com">
+              Subscribe
+              <i class="fa fa-arrow-right pl-2"></i>
+              </a>
             </div>
           </div>
-          <br>
-          <div class="items-center text-center mt-5">
-            <a
-            class="btn btn-primary"
-            href="https://calendar.google.com/calendar/u/0/r?cid={{ .Params.Cid }}@group.calendar.google.com">
-            Subscribe
-            <i class="fa fa-arrow-right pl-2"></i>
-            </a>
-          </div>
+        </div>
         </div>
       {{ end }}
 
