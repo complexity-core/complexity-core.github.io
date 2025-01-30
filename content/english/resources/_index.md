@@ -53,6 +53,7 @@ title: "Resources"
 - [CompleNet](https://complenet.weebly.com)
 - [IC2S2](https://www.ic2s2-2025.org/)
 - [LoG](https://logconference.org/)
+- [NERCS](https://nerccs2025.github.io/)
 - [NetSci](https://netsci2025.github.io)
 - [NetSciX](https://netscix2025.iiti.ac.in)
 - [Netsci Satellites](https://netsci2025.github.io/satellites/)
