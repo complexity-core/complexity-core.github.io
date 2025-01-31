@@ -6,7 +6,10 @@ social:
   - name: github
     icon: fa-brands fa-github
     link: https://github.com/AFosch
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://x.com/arifosch
+  - name: linkedin
+    icon: fa-brands fa-linkedin
+    link: https://www.linkedin.com/in/ariadna-fosch-muntané-62b514154
+  - name: bluesky
+    icon: fab fa-bluesky
+    link: https://bsky.app/profile/arifosch.bsky.social
 ---
