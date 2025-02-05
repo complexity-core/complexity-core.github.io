@@ -70,5 +70,6 @@ title: "Resources"
 - [NetSci Outreach page](https://www.netscisociety.net/outreach)
 - [NetSci Colloquium](https://www.netscisociety.net/events/colloquium)
 - [Santa Fe Institute Educational Programs](https://santafe.edu/engage/learn/overview)
+- [BeyondTheEdge Seminar Series](https://www.beyondtheedge.network/events)
 
 {{< /accordion >}}
