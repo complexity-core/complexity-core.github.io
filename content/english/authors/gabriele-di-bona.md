@@ -1,7 +1,7 @@
 ---
 title: Gabriele Di Bona
 email: gabriele.dibona.work@gmail.com
-image: "/images/contributors_pictures/gabriele_di_bona.png"
+image: "/images/contributors_pictures/gabriele_di_bona.jpg"
 website: https://www.gemass.fr/member/gabriele-di-bona/?lang=en
 description: Post-doc at CNRS (Paris, France) 
 social:
