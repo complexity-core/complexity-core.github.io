@@ -8,7 +8,7 @@ title: "Resources"
 {{< accordion  "<div><i class='fa-solid fa-users pr-4'></i>to meet my community</div>" >}}
 
 - [Complexity72h](https://complexity72h.com) is an interdisciplinary workshop for young researchers in complex systems.
-- [Complex Networks Winter Workshop](https://cmplxsys.w3.uvm.edu/events/cnww/) a bi-yearly worshop on network science and complex systems centered around collaborative problem solving.
+- [Complex Networks Winter Workshop](https://vermontcomplexsystems.org/events/past-events/) a bi-yearly worshop on network science and complex systems centered around collaborative problem solving.
 - [Complexity Science Hub Vienna Winter School](https://csh.ac.at/education/winterschool/) a winter school focused on how complex systems research can inform solutions to big societal problems. 
 - [Lipari School (J.T. Schwartz School for Scientific Research)](https://liparischool.it/) offers different summer school on topics relevant to complex systems and network science.
 - [Lake Como School of Advanced Studies](https://lakecomoschool.org/schools/) offers summer schools with focus on different complex systems topics.
