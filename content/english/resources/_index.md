@@ -3,7 +3,7 @@ title: "Resources"
 ---
 
 
-## I need...
+## I want...
 
 {{< accordion  "<div><i class='fa-solid fa-users pr-4'></i>to meet my community</div>" >}}
 
