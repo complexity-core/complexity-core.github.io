@@ -1,5 +1,5 @@
 ---
-title: WINS
+title: WiNS
 email: wins.society@gmail.com
 image: "/images/organizations_logos/wins.svg"
 description: women in network science
@@ -9,6 +9,10 @@ social:
   - name: twitter
     icon: fa-brands fa-twitter
     link: https://x.com/WiNS_Society
+    
+  - name: bluesky
+    icon: fab fa-bluesky
+    link: https://bsky.app/profile/wins-society.bsky.social
 ---
 
 Women in Network Science (WiNS) Society's mission is to foster opportunities for education, employment, and career advancement of women, trans and non-binary genders in network science.
