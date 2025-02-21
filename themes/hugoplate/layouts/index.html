@@ -38,7 +38,7 @@
               {{ partial "image" (dict "Src" "images/organizations_logos/yrCSS.svg" "Class" "transition-transform duration-300 transform hover:scale-110") }}
             </a>
           </div>
-          <div class="col-start-3 content-start transform scale-100 translate-y-5">
+          <div class="col-start-3 content-start transform scale-100 translate-y-5 justify-self-center">
             <a href="https://netplace.site">
               {{ partial "image" (dict "Src" "images/organizations_logos/netplace_icon.svg" "Class" "transition-transform duration-300 transform hover:scale-110") }}
             </a>
@@ -50,7 +50,7 @@
           </div>
 
           <div></div>
-          <div id="core" class="flex col-start-2 col-span-3 justify-center content-center">
+          <div id="core" class="flex col-start-2 col-span-3 justify-self-center content-center">
             <a href="about">
               {{ $image := resources.Get "images/core_logos/core.svg" }}
               <img id="core" src="{{ $image.RelPermalink }}" class="transition-transform duration-300 transform hover:scale-110" width="400">
@@ -63,7 +63,7 @@
               {{ partial "image" (dict "Src" "images/organizations_logos/complexity-cat-logo.svg" "Class" "transition-transform duration-300 transform hover:scale-110") }}
             </a>
           </div>
-          <div id="org5" class="col-start-3 content-start transform scale-125 translate-y-1/2">
+          <div id="org5" class="col-start-3 content-start transform scale-100 translate-y-5 justify-self-center">
             <a href="https://complexity72h.com/">
               {{ partial "image" (dict "Src" "images/organizations_logos/C72h.png" "Class" "transition-transform duration-300 transform hover:scale-110") }}
             </a>
