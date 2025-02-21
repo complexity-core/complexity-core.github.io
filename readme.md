@@ -31,7 +31,7 @@ Relevant folders
 │   |   |    ├── index.html (home page layout)
 │   |   |    ├── organizations (below applies also to other folders such as "authors")
 │   |   |    |    ├── list.html (layout of the list of organization cards on the corresponding page)
-│   |   |    |    ├── single.html (layout of each organization's separate page)
+│   |   |    |    ├── single.html (layout of each organization's separate page, not used for now)
 │   |   |    ├── partials (layout for part of a page, which can be used in other layouts with a `{{ partial ... }}` block)
 ```
 
@@ -42,7 +42,7 @@ Relevant folders
 ## Add a new contributors
 1. create an `contrib-name.md` file in the folder `content/english/authors`, copying the 
 structure of the ones already there.
-2. add logo to the folder `assets/images/contributors_photos`.
+2. add your picture in 1:1 aspect ratio to the folder `assets/images/contributors_photos`.
 
 ## Add a new calendar event 
-1. add the event in Google Calendar, it will automatically appear in the website.
+1. add the event in Google Calendar, it will automatically appear in the website and posted to Bsky.
