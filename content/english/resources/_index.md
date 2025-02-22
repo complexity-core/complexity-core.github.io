@@ -67,7 +67,7 @@ title: "Resources"
 
 {{< /accordion >}}
 
-{{< accordion "<div><i class='fa-solid fa-book-open-reader pr-4'></i>to keep in touch with the community online</div>" >}}
+{{< accordion "<div><i class='fa-solid fa-globe pr-4'></i>to keep in touch with the community online</div>" >}}
 - [NetSci Outreach page](https://www.netscisociety.net/outreach) contains an extensive set of resources useful for any scientist starting in network science (e.g. books, seminars, software, research centers...).
 - [NetSci Colloquium](https://www.netscisociety.net/events/colloquium) regular online seminars organized by the Network Science Society. Mostly focused on network science research. 
 - [Santa Fe Institute Educational Programs](https://santafe.edu/engage/learn/overview) list of resources for researchers at all levels interested in following all the complex systems' programs organized by the Santa Fe Institute.
@@ -78,7 +78,7 @@ title: "Resources"
 {{< /accordion >}}
 
 
-{{< accordion "<div><i class='fa-solid fa-book-open-reader pr-4'></i>to integrate in my regional community</div>" >}}
+{{< accordion "<div><i class='fa-solid fa-location-dot pr-4'></i>to integrate in my regional community</div>" >}}
 **United States of America**
 - [NERCS](https://nerccs2025.github.io/) is the Northeast Regional Conference on Complex Systems, and it promotes the interdisciplinary exchange between complex systems researchers in the Northeast U.S. region (and beyond).
 
