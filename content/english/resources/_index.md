@@ -44,6 +44,7 @@ title: "Resources"
 - [NetSci job page](https://www.netscisociety.net/jobs)regularly publishes job opportunities related to network science.
 - [Our Discord server](https://discord.gg/yFmVMZ29) has a specific subchannel dedicated to new job opportunities. Join the Discord to always be updated, or contact us by email if you have a job opportunity you want to share.
 
+{{< /accordion >}}
 
 
 {{< accordion "<div><i class='fa-duotone fa-solid fa-coins pr-4'></i>funding</div>" >}}
