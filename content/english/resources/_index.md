@@ -80,15 +80,15 @@ title: "Resources"
 
 {{< accordion "<div><i class='fa-solid fa-location-dot pr-4'></i>to integrate in my regional community</div>" >}}
 **United States of America**
-- [NERCS](https://nerccs2025.github.io/) is the Northeast Regional Conference on Complex Systems, and it promotes the interdisciplinary exchange between complex systems researchers in the Northeast U.S. region (and beyond).
+- The [US Northeast Chapter of the CSS](https://sites.google.com/binghamton.edu/css-usne) provides researchers and students working on complex systems in the US Northeast region with a professional venue where they can share their work, network with peers and potential collaborators, and achieve further professional development. Every year they organise the [Northeast Regional Conference on Complex Systems (NERCCS)](https://sites.google.com/binghamton.edu/css-usne/activities).
 
 **Spain**
 - [FisEs Joven](https://fisesjoven24.gefenol.es) the "Reunión de Física Estadística Joven" is a congress specifically targetting young researchers working in the fields of statistical physics and other multidisciplinary applications. It has been organized both as an in-person and online event. 
 - [BIFI Conference](https://bifi.es/calendar/) The National/International conference BIFI is an annual conference organized by the  Institute for Bio-computation and Physics of Complex Systems of the University of Zaragoza. It provides an opportunity for participants to share their latest findings across the Institute’s diverse research fields: from Physics and Computation to Bio-Physics, Bio-Chemistry, and Cell and Molecular Biology.
-- [Spanish chapter of the CCS](https://indico.ifca.es/event/2862/) gathers researchers in complex systems and other areas of potential interaction in an annual meeting celebrated somewhere in Spain.
+- [Spanish chapter of the CSS](https://cs3.es/) gathers researchers in complex systems and other areas of potential interaction in [an annual meeting](https://cs3.es/conference/) celebrated somewhere in Spain.
 
 **France**
-- [French local chapter of the CCS](https://conferences.css-fr.org) gathers researchers in complex systems and other areas of potential interaction in an annual meeting celebrated somewhere in France.
+- [French local chapter of the CSS](https://css-fr.org) gathers researchers in complex systems and other areas of potential interaction in [an annual meeting](https://conferences.css-fr.org) celebrated somewhere in France.
 
 **Netherlands**
 - [NetSciNL](https://www.netsci.nl/) is an official chapter of the International Network Science Society (NetSci). They organize two annual meetings around the country.
