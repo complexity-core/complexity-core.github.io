@@ -21,8 +21,8 @@ title: "Resources"
 - [WiNS Seminars](https://sites.google.com/view/womeninnetworkscience/) are online interdisciplinary seminars with the aim to promote and showcase research by women and nonbinary researchers in network science. Contact the organizers directly if you are interested in participating.
 
 **Divulgation**
--[The Pint of Science](https://pintofscience.com) festival aims to deliver interesting and relevant talks on the latest science research in an accessible format to the public – mainly across bars, pubs, cafes and other public spaces. It is carried out in 27 countries worldwide. 
--[European Researcher's Night](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/msca-citizens/join-a-celebration-of-science) is an initiative promoted by the European Commission since 2005 that involves thousands of researchers and institutions in all European countries every year. The goal is to create opportunities for meetings between the world of research and the public to spread scientific culture in an informal and stimulating context. If you want to participate, we encourage you to ask your University directly. 
+- [The Pint of Science](https://pintofscience.com) festival aims to deliver interesting and relevant talks on the latest science research in an accessible format to the public – mainly across bars, pubs, cafes and other public spaces. It is carried out in 27 countries worldwide. 
+- [European Researcher's Night](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/msca-citizens/join-a-celebration-of-science) is an initiative promoted by the European Commission since 2005 that involves thousands of researchers and institutions in all European countries every year. The goal is to create opportunities for meetings between the world of research and the public to spread scientific culture in an informal and stimulating context. If you want to participate, we encourage you to ask your University directly. 
 {{< /accordion >}}
 
 
@@ -81,12 +81,15 @@ title: "Resources"
 **United States of America**
 - [NERCS](https://nerccs2025.github.io/) is the Northeast Regional Conference on Complex Systems, and it promotes the interdisciplinary exchange between complex systems researchers in the Northeast U.S. region (and beyond).
 
-** Spain**
+**Spain**
 - [FisEs Joven](https://fisesjoven24.gefenol.es) the "Reunión de Física Estadística Joven" is a congress specifically targetting young researchers working in the fields of statistical physics and other multidisciplinary applications. It has been organized both as an in-person and online event. 
 - [BIFI Conference](https://bifi.es/calendar/) The National/International conference BIFI is an annual conference organized by the  Institute for Bio-computation and Physics of Complex Systems of the University of Zaragoza. It provides an opportunity for participants to share their latest findings across the Institute’s diverse research fields: from Physics and Computation to Bio-Physics, Bio-Chemistry, and Cell and Molecular Biology.
 - [Spanish chapter of the CCS](https://indico.ifca.es/event/2862/) gathers researchers in complex systems and other areas of potential interaction in an annual meeting celebrated somewhere in Spain.
 
 **France**
 - [French local chapter of the CCS](https://conferences.css-fr.org) gathers researchers in complex systems and other areas of potential interaction in an annual meeting celebrated somewhere in France.
+
+**Netherlands**
+- [NetSciNL](https://www.netsci.nl/) is an official chapter of the International Network Science Society (NetSci). They organize two annual meetings around the country.
 
 {{< /accordion >}}
