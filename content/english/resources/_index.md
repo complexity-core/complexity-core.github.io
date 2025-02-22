@@ -27,14 +27,15 @@ title: "Resources"
 
 
 {{< accordion "<div><i class='fa-solid fa-people-arrows pr-4'></i>to start new collaborations</div>" >}}
+
+- [Our Discord server](https://discord.gg/yFmVMZ29) is the perfect platform to meet other researchers in the community. You are only one click away from starting new scientific collaborations.
+  
 **Workshops**
 - [Winter Workshop on Complex Systems](https://wwcs2025.github.io) is a one-week workshop where young researchers worldwide come together to work on interdisciplinary projects around complex systems.
 - [Complexity72h](https://complexity72h.com) is an interdisciplinary workshop for young researchers in complex systems.
 - [Complex Networks Winter Workshop](https://vermontcomplexsystems.org/events/past-events/) is a bi-yearly workshop on network science and complex systems centered around collaborative problem-solving.
 - [The International Workshop on Complex Systems](https://complexsystems.physics.unitn.it/iwcs/) is organised every three years and it aims at being an instrumental meeting point for the broad community working in this field. Since its first edition, the workshop emphasizes new results obtained by experimentalists, theoreticians, and computational scientists.
 
-**Others**
-- [Our Discord server](https://discord.gg/yFmVMZ29) is the perfect platform to meet other researchers in the community. You are only one click away from starting new scientific collaborations. 
 
 {{< /accordion >}}
 
