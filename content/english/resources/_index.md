@@ -20,7 +20,7 @@ title: "Resources"
 - [NetPlace Seminars](https://netplace.site) are online seminars held every two weeks. They are followed up by a brief discussion about difficulties that can be encountered during the academic path. To be the next presenter you just need to apply through their website.
 - [WiNS Seminars](https://sites.google.com/view/womeninnetworkscience/) are online interdisciplinary seminars with the aim to promote and showcase research by women and nonbinary researchers in network science. Contact the organizers directly if you are interested in participating.
 
-**Divulgation**
+**Science Communication**
 - [The Pint of Science](https://pintofscience.com) festival aims to deliver interesting and relevant talks on the latest science research in an accessible format to the public – mainly across bars, pubs, cafes and other public spaces. It is carried out in 27 countries worldwide. 
 - [European Researcher's Night](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/msca-citizens/join-a-celebration-of-science) is an initiative promoted by the European Commission since 2005 that involves thousands of researchers and institutions in all European countries every year. The goal is to create opportunities for meetings between the world of research and the public to spread scientific culture in an informal and stimulating context. If you want to participate, we encourage you to ask your University directly. 
 {{< /accordion >}}
