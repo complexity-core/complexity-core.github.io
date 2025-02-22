@@ -85,10 +85,13 @@ title: "Resources"
 **Spain**
 - [FisEs Joven](https://fisesjoven24.gefenol.es) the "Reunión de Física Estadística Joven" is a congress specifically targetting young researchers working in the fields of statistical physics and other multidisciplinary applications. It has been organized both as an in-person and online event. 
 - [BIFI Conference](https://bifi.es/calendar/) The National/International conference BIFI is an annual conference organized by the  Institute for Bio-computation and Physics of Complex Systems of the University of Zaragoza. It provides an opportunity for participants to share their latest findings across the Institute’s diverse research fields: from Physics and Computation to Bio-Physics, Bio-Chemistry, and Cell and Molecular Biology.
-- [Spanish chapter of the CSS](https://cs3.es/) gathers researchers in complex systems and other areas of potential interaction in [an annual meeting](https://cs3.es/conference/) celebrated somewhere in Spain.
+- The [Spanish Chapter of the CSS](https://cs3.es/) gathers researchers in complex systems and other areas of potential interaction in [an annual meeting](https://cs3.es/conference/) celebrated somewhere in Spain.
 
 **France**
-- [French local chapter of the CSS](https://css-fr.org) gathers researchers in complex systems and other areas of potential interaction in [an annual meeting](https://conferences.css-fr.org) celebrated somewhere in France.
+- The [French Chapter of the CSS](https://css-fr.org) gathers researchers in complex systems and other areas of potential interaction in [an annual meeting](https://conferences.css-fr.org) celebrated somewhere in France.
+
+**Italy**
+- The [Italian Chapter of the CSS](https://italy.cssociety.org) aims at coordinating regional efforts to foster new scientific collaborations and participation to Italian, EU and international projects. CSS/Italy shares and promotes initiatives such as workshops, schools and seminars focused on complex systems in the Italian territory, in synergy with local existing initiatives and entities from other disciplines. 
 
 **Netherlands**
 - [NetSciNL](https://www.netsci.nl/) is an official chapter of the International Network Science Society (NetSci). They organize two annual meetings around the country.
