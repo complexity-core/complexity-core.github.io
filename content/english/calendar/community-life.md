@@ -1,4 +1,6 @@
 ---
 title: Community life
 cid: e0687bd9c67739ea686ef06479b98b2b1c6ca040057e734da7e3718e5a001237
+src: ZTA2ODdiZDljNjc3MzllYTY4NmVmMDY0NzliOThiMmIxYzZjYTA0MDA1N2U3MzRkYTdlMzcxOGU1YTAwMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+color: F4511E
 ---

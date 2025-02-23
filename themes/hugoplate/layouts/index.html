@@ -76,14 +76,22 @@
         </div>
 
         <div class="items-center text-center mt-20 lg:mt-0 rounded-lg bg-[#F0F4F9] px-5 py-5">
+          {{ $calendars := where site.RegularPages "Section" "calendar" }}
           <h3 style="color: black">Upcoming events</h3>
           <div class="flex">
-            <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FRome&showPrint=0&mode=AGENDA&showDate=0&showNav=0&showTitle=0&showTabs=0&src=ZTA2ODdiZDljNjc3MzllYTY4NmVmMDY0NzliOThiMmIxYzZjYTA0MDA1N2U3MzRkYTdlMzcxOGU1YTAwMTIzN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MzQ0ZGM1Y2Y1ZDZjZGQ0YTFlYTUyZWFmODJhZGNkNjRiMzUxNzZmMmMwODY4ZGY5ZWRjMzVlNmQ4NTI3OTE4ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YWFiYTE5N2QyYjdkZDkzM2Q4Y2U0YzY3N2IwNDg5NTU1N2E3MjNjYTMxNDdjMzg0NzczMDczMzUzYTMwZjA4ZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=NjRkMmNmYmFjY2JkNTcwMjA1YWNlZDc3MTQ0M2E3ZThhNWQyNGIwNzZmODE4MWNiNDcwMWNlNGIzYzg1NTE1YkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Yzk5MjI1YTY1NWZjOTQ5MDM3M2JhMDNiMzk0YjViMjZkNTMyOWVkZTc3ZTA4YjM1ZThhYmYxODc2NDEyZThhMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&bgcolor=%23ffffff&color=%23ffffff" class="items-center border-none mt-5 mb-5 inline flex-1" height="600" frameborder="0" scrolling="no"></iframe>
+            {{ $calendar_embed_url := "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FRome&showPrint=0&mode=AGENDA&showDate=0&showNav=0&showTitle=0&showTabs=0" }}
+            {{ range $calendars }}
+              {{ $calendar_embed_url = (printf "%s%s%s%s%s" $calendar_embed_url "&src=" .Params.src "&color=%23" .Params.color ) }}
+            {{ end }}
+            <iframe {{ printf "src=%q" $calendar_embed_url | safeHTMLAttr }} class="items-center border-none mt-5 mb-5 inline flex-1" height="600" frameborder="0" scrolling="no"></iframe>
           </div>
           <br>
+          {{ $calendar_sub_url := "https://calendar.google.com/calendar/u/0/r?" }}
+          {{ range $calendars }}
+            {{ $calendar_sub_url = (printf "%s%s%s%s" $calendar_sub_url "&cid=" .Params.cid "@group.calendar.google.com" ) }}
+          {{ end }}
           <a
-            class="btn btn-primary"
-            href="https://calendar.google.com/calendar/u/0/r?cid=e0687bd9c67739ea686ef06479b98b2b1c6ca040057e734da7e3718e5a001237@group.calendar.google.com&cid=344dc5cf5d6cdd4a1ea52eaf82adcd64b35176f2c0868df9edc35e6d8527918f@group.calendar.google.com&cid=aaba197d2b7dd933d8ce4c677b04895557a723ca3147c384773073353a30f08e@group.calendar.google.com&cid=64d2cfbaccbd570205aced771443a7e8a5d24b076f8181cb4701ce4b3c85515b@group.calendar.google.com&cid=c99225a655fc9490373ba03b394b5b26d5329ede77e08b35e8abf1876412e8a2@group.calendar.google.com">
+            class="btn btn-primary" {{ printf "href=%q" $calendar_sub_url | safeHTMLAttr }}>
             Subscribe
             <i class="fa fa-arrow-right pl-2"></i>
           </a>
