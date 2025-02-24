@@ -41,9 +41,9 @@ title: "Resources"
 
 {{< accordion "<div><i class='fa-solid fa-award pr-4'></i>a position</div>" >}}
 
+- [Our Discord server](https://discord.gg/yFmVMZ29) has a specific subchannel dedicated to new job opportunities. Join the Discord to always be updated, or contact us by email if you have a job opportunity you want to share.
 - [CSS job page](https://cssociety.org/job-openings) regularly publishes job opportunities related to complex systems.
 - [NetSci job page](https://www.netscisociety.net/jobs) regularly publishes job opportunities related to network science.
-- [Our Discord server](https://discord.gg/yFmVMZ29) has a specific subchannel dedicated to new job opportunities. Join the Discord to always be updated, or contact us by email if you have a job opportunity you want to share.
 
 {{< /accordion >}}
 
@@ -85,8 +85,8 @@ title: "Resources"
 - The [US Northeast Chapter of the CSS](https://sites.google.com/binghamton.edu/css-usne) provides researchers and students working on complex systems in the US Northeast region with a professional venue where they can share their work, network with peers and potential collaborators, and achieve further professional development. Every year they organise the [Northeast Regional Conference on Complex Systems (NERCCS)](https://sites.google.com/binghamton.edu/css-usne/activities).
 
 **Spain**
-- [FisEs Joven](https://fisesjoven24.gefenol.es) the "Reunión de Física Estadística Joven" is a congress specifically targetting young researchers working in the fields of statistical physics and other multidisciplinary applications. It has been organized both as an in-person and online event. 
-- [BIFI Conference](https://bifi.es/calendar/) The National/International conference BIFI is an annual conference organized by the  Institute for Bio-computation and Physics of Complex Systems of the University of Zaragoza. It provides an opportunity for participants to share their latest findings across the Institute’s diverse research fields: from Physics and Computation to Bio-Physics, Bio-Chemistry, and Cell and Molecular Biology.
+- [FisEs Joven](https://fisesjoven24.gefenol.es), i.e., the "Reunión de Física Estadística Joven", is a congress specifically targetting young researchers working in the fields of statistical physics and other multidisciplinary applications. It has been organized both as an in-person and online event. 
+- [BIFI Conference](https://bifi.es/calendar/), i.e., the National/International conference BIFI, is an annual conference organized by the  Institute for Bio-computation and Physics of Complex Systems of the University of Zaragoza. It provides an opportunity for participants to share their latest findings across the Institute’s diverse research fields: from Physics and Computation to Bio-Physics, Bio-Chemistry, and Cell and Molecular Biology.
 - The [Spanish Chapter of the CSS](https://cs3.es/) gathers researchers in complex systems and other areas of potential interaction in [an annual meeting](https://cs3.es/conference/) celebrated somewhere in Spain.
 
 **France**
