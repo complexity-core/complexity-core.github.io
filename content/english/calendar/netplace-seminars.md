@@ -1,5 +1,5 @@
 ---
-title: NetPLACE Seminars
+title: NetPlace Seminars
 cid: c99225a655fc9490373ba03b394b5b26d5329ede77e08b35e8abf1876412e8a2
 src: Yzk5MjI1YTY1NWZjOTQ5MDM3M2JhMDNiMzk0YjViMjZkNTMyOWVkZTc3ZTA4YjM1ZThhYmYxODc2NDEyZThhMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 color: E4C441
