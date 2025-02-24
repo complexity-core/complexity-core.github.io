@@ -11,13 +11,13 @@ title: "Resources"
 - [CompleNet](https://complenet.weebly.com) brings together researchers and practitioners from diverse disciplines working on areas related to complex networks. As a particularity, it is usually a single-track conference (without parallel sessions). 
 - [IC2S2](https://www.ic2s2-2025.org/) is the International Conference on Computational Social Science. It lies at the intersection of social and computational science, attracting researchers from fields like: sociology, economics, political science, psychology, cognitive science, management, computer science, and statistics.
 - [LoG](https://logconference.org/) is an annual research conference that covers areas broadly related to machine learning on graphs and geometry. It offers the possibility of following it online (for free).
-- [NetSci](https://www.netscisociety.net/events/netsci) is the flagship conference on network science. The conference also holds [Satellite sessions](https://netsci2025.github.io/satellites/) before the main conference. These are specialized, smaller-scale events focusing on specific topics within network science.
-- [NetSciX](https://netscix2025.iiti.ac.in) NetSciX extends the popular NetSci conference to provide an additional forum for a growing community of researchers and practitioners working in the emergent areas of network science. 
+- [NetSci](https://www.netscisociety.net/events/netsci) is the flagship conference on network science, organized by the Network Science Society. The conference also holds [Satellite sessions](https://netsci2025.github.io/satellites/) before the main conference. These are specialized, smaller-scale events focusing on specific topics within network science.
+- [NetSciX](https://netscix2025.iiti.ac.in) extends the popular NetSci conference to provide an additional forum for a growing community of researchers and practitioners working in the emergent areas of network science. It usually holds in winter.
 - [Dynamic Days](https://www.dynamicsdays.info) are international conferences on theory and applications of nonlinear dynamics.
 
 
 **Seminars**
-- [NetPlace Seminars](https://netplace.site) are online seminars held every two weeks. They are followed up by a brief discussion about difficulties that can be encountered during the academic path. To be the next presenter you just need to apply through their website.
+- [NetPlace Seminars](https://netplace.site) are online seminars held every two weeks, where organizers, speakers and the audience are all students and early-career researchers in network science and complexity. They are followed up by a brief discussion about difficulties that can be encountered during the academic path. To be the next presenter you just need to apply through their website.
 - [WiNS Seminars](https://sites.google.com/view/womeninnetworkscience/) are online interdisciplinary seminars with the aim to promote and showcase research by women and nonbinary researchers in network science. Contact the organizers directly if you are interested in participating.
 
 **Science Communication**
@@ -32,7 +32,7 @@ title: "Resources"
   
 **Workshops**
 - [Winter Workshop on Complex Systems](https://wwcs2025.github.io) is a one-week workshop where young researchers worldwide come together to work on interdisciplinary projects around complex systems.
-- [Complexity72h](https://complexity72h.com) is an interdisciplinary workshop for young researchers in complex systems.
+- [Complexity72h](https://complexity72h.com) is an interdisciplinary workshop for young researchers in complex systems, where you team up with other early-career researchers to develop a project and submit the results on arXiv in just 72 hours, guided by the tutors.
 - [Complex Networks Winter Workshop](https://vermontcomplexsystems.org/events/past-events/) is a bi-yearly workshop on network science and complex systems centered around collaborative problem-solving.
 - [The International Workshop on Complex Systems](https://complexsystems.physics.unitn.it/iwcs/) is organised every three years and it aims at being an instrumental meeting point for the broad community working in this field. Since its first edition, the workshop emphasizes new results obtained by experimentalists, theoreticians, and computational scientists.
 
@@ -42,7 +42,7 @@ title: "Resources"
 {{< accordion "<div><i class='fa-solid fa-award pr-4'></i>a position</div>" >}}
 
 - [CSS job page](https://cssociety.org/job-openings) regularly publishes job opportunities related to complex systems.
-- [NetSci job page](https://www.netscisociety.net/jobs)regularly publishes job opportunities related to network science.
+- [NetSci job page](https://www.netscisociety.net/jobs) regularly publishes job opportunities related to network science.
 - [Our Discord server](https://discord.gg/yFmVMZ29) has a specific subchannel dedicated to new job opportunities. Join the Discord to always be updated, or contact us by email if you have a job opportunity you want to share.
 
 {{< /accordion >}}
@@ -51,7 +51,7 @@ title: "Resources"
 {{< accordion "<div><i class='fa-duotone fa-solid fa-coins pr-4'></i>funding</div>" >}}
 
 - [AccelNet-MultiNet fellowships](https://www.accelnet-multinet.org/education-training) exchanged program between the United States and Europe to foster multilayer network science.
-- [yrCSS grants](https://yrcss.cssociety.org/grants/) are provided by the association of Young Researchers of the Complex Systems Society. They provide financial support for young researchers to attend conferences, workshops, schools, symposiums or other scientific events related to complex systems. The yrCSS also has specific travel grants to look for new scientific collaborations ([yrCSS Bridge Grants](https://yrcss.cssociety.org/grants/bridge-grant/)).
+- [yrCSS grants](https://yrcss.cssociety.org/grants/) are provided by the association of young researchers of the Complex Systems Society. They provide financial support for young researchers to attend conferences, workshops, schools, symposiums or other scientific events related to complex systems. The yrCSS also has specific travel grants to look for new scientific collaborations ([yrCSS Bridge Grants](https://yrcss.cssociety.org/grants/bridge-grant/)).
 
 {{< /accordion >}}
 
@@ -68,11 +68,12 @@ title: "Resources"
 {{< /accordion >}}
 
 {{< accordion "<div><i class='fa-solid fa-globe pr-4'></i>to keep in touch with the community online</div>" >}}
+- [Our Discord server](https://discord.gg/yFmVMZ29) is the perfect platform to meet other researchers in the community. Here you can get all kinds of updates related to our community, and ask any kind of question to fellow researchers.
 - [NetSci Outreach page](https://www.netscisociety.net/outreach) contains an extensive set of resources useful for any scientist starting in network science (e.g. books, seminars, software, research centers...).
 - [NetSci Colloquium](https://www.netscisociety.net/events/colloquium) regular online seminars organized by the Network Science Society. Mostly focused on network science research. 
 - [Santa Fe Institute Educational Programs](https://santafe.edu/engage/learn/overview) list of resources for researchers at all levels interested in following all the complex systems' programs organized by the Santa Fe Institute.
 - [BeyondTheEdge Seminar Series](https://www.beyondtheedge.network/events) online seminar series organized by the doctoral network BeyondTheEdge. They are focused on hypergraphs and higher-order networks. 
-- [NetPlace Seminars](https://netplace.site) are online seminars held every two weeks across the year. They are followed up by a brief discussion about difficulties that can be encountered during the academic path.
+- [NetPlace Seminars](https://netplace.site) are online seminars held every two weeks, where organizers, speakers and the audience are all students and early-career researchers in network science and complexity. They are followed up by a brief discussion about difficulties that can be encountered during the academic path. 
 - [WiNS Seminars](https://sites.google.com/view/womeninnetworkscience/) are online interdisciplinary seminars with the aim to promote and showcase research by women and nonbinary researchers in network science.
 - [CSH Vienna Educational Programs](https://csh.ac.at/education/) list of resources for researchers at all levels interested in following all the complex systems' programs shared by Complexity Science Hub.
 {{< /accordion >}}
