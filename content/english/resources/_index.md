@@ -76,6 +76,7 @@ title: "Resources"
 - [NetPlace Seminars](https://netplace.site) are online seminars held every two weeks, where organizers, speakers and the audience are all students and early-career researchers in network science and complexity. They are followed up by a brief discussion about difficulties that can be encountered during the academic path. 
 - [WiNS Seminars](https://sites.google.com/view/womeninnetworkscience/) are online interdisciplinary seminars with the aim to promote and showcase research by women and nonbinary researchers in network science.
 - [CSH Vienna Educational Programs](https://csh.ac.at/education/) list of resources for researchers at all levels interested in following all the complex systems' programs shared by Complexity Science Hub.
+- [Neural Modeling Community Discord Channel](https://discord.gg/scSeUkWrzG) computational neuroscience community.
 {{< /accordion >}}
 
 
