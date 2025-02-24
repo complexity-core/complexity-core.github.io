@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Welcome to CORE"
-  content: "Complexity and Networks COmmunity and REsources (CORE) is an umbrella organization that aims to gather [resources](/resources) and [initiatives](/calendar) directed to the Complexity and Network Science community. "
+  content: "Complexity and Networks COmmunity and REsources (CORE) is an umbrella organization that aims to gather <u>[resources](/resources)</u> and <u>[events](/calendar)</u> directed to the Complexity and Network Science community. "
   image: "/images/core_logos/logo.png"
   button:
     enable: true
