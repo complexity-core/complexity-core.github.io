@@ -99,3 +99,5 @@ title: "Resources"
 - [NetSciNL](https://www.netsci.nl/) is an official chapter of the International Network Science Society (NetSci). They organize two annual meetings around the country.
 
 {{< /accordion >}}
+
+Have a resource you'd like added to this page? Please contact us on our <u>[discord server](https://discord.gg/w3gppwZMyb)</u> and we'll add it.
