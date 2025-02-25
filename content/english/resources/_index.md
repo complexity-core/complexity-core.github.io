@@ -20,6 +20,10 @@ title: "Resources"
 - [NetPlace Seminars](https://netplace.site) are online seminars held every two weeks, where organizers, speakers and the audience are all students and early-career researchers in network science and complexity. They are followed up by a brief discussion about difficulties that can be encountered during the academic path. To be the next presenter you just need to apply through their website.
 - [WiNS Seminars](https://sites.google.com/view/womeninnetworkscience/) are online interdisciplinary seminars with the aim to promote and showcase research by women and nonbinary researchers in network science. Contact the organizers directly if you are interested in participating.
 
+**Diamond open access journals**
+- [Peer Community In](https://peercommunityin.org/) PCI is a non-profit organization of researchers offering peer review, recommendation, and publication of scientific articles in open access for free. Among others, they have a thematic journal on Network Science, i.e., [PCI Network Science](https://networksci.peercommunityin.org/).
+- [OA Diamond Journals Inventory](https://zenodo.org/records/4562828) From June 2020 to February 2021, a consortium of 10 organizations undertook a large-scale study on open-access journals across the world that are free for readers and authors.
+
 **Science Communication**
 - [The Pint of Science](https://pintofscience.com) festival aims to deliver interesting and relevant talks on the latest science research in an accessible format to the public – mainly across bars, pubs, cafes and other public spaces. It is carried out in 27 countries worldwide. 
 - [European Researcher's Night](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/msca-citizens/join-a-celebration-of-science) is an initiative promoted by the European Commission since 2005 that involves thousands of researchers and institutions in all European countries every year. The goal is to create opportunities for meetings between the world of research and the public to spread scientific culture in an informal and stimulating context. If you want to participate, we encourage you to ask your University directly. 
