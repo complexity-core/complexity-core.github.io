@@ -23,6 +23,7 @@ title: "Resources"
 **Diamond open access journals**
 - [Peer Community In](https://peercommunityin.org/) PCI is a non-profit organization of researchers offering peer review, recommendation, and publication of scientific articles in open access for free. Among others, they have a thematic journal on Network Science, i.e., [PCI Network Science](https://networksci.peercommunityin.org/).
 - [OA Diamond Journals Inventory](https://zenodo.org/records/4562828) From June 2020 to February 2021, a consortium of 10 organizations undertook a large-scale study on open-access journals across the world that are free for readers and authors.
+- The Northeast Journal of Complex Systems ([NEJCS](https://orb.binghamton.edu/nejcs/about.html)) is a peer-reviewed, online open-access journal on complex systems. NEJCS strives to publish original research on complex systems in a timely, open-access manner, free of charge for everyone (i.e., the journal does not charge fees for publishing an article).
 
 **Science Communication**
 - [The Pint of Science](https://pintofscience.com) festival aims to deliver interesting and relevant talks on the latest science research in an accessible format to the public – mainly across bars, pubs, cafes and other public spaces. It is carried out in 27 countries worldwide. 
