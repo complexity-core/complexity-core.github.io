@@ -33,7 +33,7 @@ title: "Resources"
 
 {{< accordion "<div><i class='fa-solid fa-people-arrows pr-4'></i>to start new collaborations</div>" >}}
 
-- [Our Discord server](https://discord.gg/yFmVMZ29) is the perfect platform to meet other researchers in the community. You are only one click away from starting new scientific collaborations.
+- [Our Discord server]({{< get_social_link "discord" >}}) is the perfect platform to meet other researchers in the community. You are only one click away from starting new scientific collaborations.
   
 **Workshops**
 - [Winter Workshop on Complex Systems](https://wwcs2025.github.io) is a one-week workshop where young researchers worldwide come together to work on interdisciplinary projects around complex systems.
@@ -46,7 +46,7 @@ title: "Resources"
 
 {{< accordion "<div><i class='fa-solid fa-award pr-4'></i>a position</div>" >}}
 
-- [Our Discord server](https://discord.gg/yFmVMZ29) has a specific subchannel dedicated to new job opportunities. Join the Discord to always be updated, or contact us by email if you have a job opportunity you want to share.
+- [Our Discord server]({{< get_social_link "discord" >}}) has a specific subchannel dedicated to new job opportunities. Join the Discord to always be updated, or contact us by email if you have a job opportunity you want to share.
 - [CSS job page](https://cssociety.org/job-openings) regularly publishes job opportunities related to complex systems.
 - [NetSci job page](https://www.netscisociety.net/jobs) regularly publishes job opportunities related to network science.
 
@@ -81,7 +81,7 @@ title: "Resources"
 {{< /accordion >}}
 
 {{< accordion "<div><i class='fa-solid fa-globe pr-4'></i>to keep in touch with the community online</div>" >}}
-- [Our Discord server](https://discord.gg/yFmVMZ29) is the perfect platform to meet other researchers in the community. Here you can get all kinds of updates related to our community, and ask any kind of question to fellow researchers.
+- [Our Discord server]({{< get_social_link "discord" >}}) is the perfect platform to meet other researchers in the community. Here you can get all kinds of updates related to our community, and ask any kind of question to fellow researchers.
 - [NetSci Outreach page](https://www.netscisociety.net/outreach) contains an extensive set of resources useful for any scientist starting in network science (e.g. books, seminars, software, research centers...).
 - [NetSci Colloquium](https://www.netscisociety.net/events/colloquium) regular online seminars organized by the Network Science Society. Mostly focused on network science research. 
 - [Santa Fe Institute Educational Programs](https://santafe.edu/engage/learn/overview) list of resources for researchers at all levels interested in following all the complex systems' programs organized by the Santa Fe Institute.
@@ -113,4 +113,4 @@ title: "Resources"
 
 {{< /accordion >}}
 
-Have a resource you'd like added to this page? Please contact us on our <u>[discord server](https://discord.gg/w3gppwZMyb)</u> and we'll add it.
+Have a resource you'd like added to this page? Please contact us on our <u>[discord server]({{< get_social_link "discord" >}})</u> and we'll add it.
