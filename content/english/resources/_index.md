@@ -63,6 +63,7 @@ title: "Resources"
 
 {{< accordion "<div><i class='fa-solid fa-book-open-reader pr-4'></i>to learn</div>" >}}
 
+**Schools**
 - [Lipari School (J.T. Schwartz School for Scientific Research)](https://liparischool.it/) offers different summer schools on topics relevant to complex systems and network science.
 - [Lake Como School of Advanced Studies](https://lakecomoschool.org/schools/) offers summer schools with focus on different complex systems topics.
 - [Mediterranean School of Complex Networks](https://mediterraneanschoolcomplex.net/) is a week-long school that focuses on theory and applications of network science. 
