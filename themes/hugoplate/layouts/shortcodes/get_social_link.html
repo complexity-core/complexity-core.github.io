@@ -1,6 +1,6 @@
-{{ $name := (.Get 0)}}
-{{ range site.Data.social.main }}
+{{ $name := (.Get 0) }}
+{{- range site.Data.social.main -}}
   {{ if eq .name $name }}
     {{ .link }}
   {{ end }}
-{{ end }}
+{{- end -}}
