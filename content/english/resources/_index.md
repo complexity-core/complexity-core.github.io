@@ -23,6 +23,7 @@ title: "Resources"
 **Diamond open access journals**
 - [Peer Community In](https://peercommunityin.org/) PCI is a non-profit organization of researchers offering peer review, recommendation, and publication of scientific articles in open access for free. Among others, they have a thematic journal on Network Science, i.e., [PCI Network Science](https://networksci.peercommunityin.org/).
 - [OA Diamond Journals Inventory](https://zenodo.org/records/4562828) From June 2020 to February 2021, a consortium of 10 organizations undertook a large-scale study on open-access journals across the world that are free for readers and authors.
+- The Northeast Journal of Complex Systems ([NEJCS](https://orb.binghamton.edu/nejcs/about.html)) is a peer-reviewed, online open-access journal on complex systems. NEJCS strives to publish original research on complex systems in a timely, open-access manner, free of charge for everyone (i.e., the journal does not charge fees for publishing an article).
 
 **Science Communication**
 - [The Pint of Science](https://pintofscience.com) festival aims to deliver interesting and relevant talks on the latest science research in an accessible format to the public – mainly across bars, pubs, cafes and other public spaces. It is carried out in 27 countries worldwide. 
@@ -32,7 +33,7 @@ title: "Resources"
 
 {{< accordion "<div><i class='fa-solid fa-people-arrows pr-4'></i>to start new collaborations</div>" >}}
 
-- [Our Discord server](https://discord.gg/yFmVMZ29) is the perfect platform to meet other researchers in the community. You are only one click away from starting new scientific collaborations.
+- [Our Discord server]({{< get_social_link "discord" >}}) is the perfect platform to meet other researchers in the community. You are only one click away from starting new scientific collaborations.
   
 **Workshops**
 - [Winter Workshop on Complex Systems](https://wwcs2025.github.io) is a one-week workshop where young researchers worldwide come together to work on interdisciplinary projects around complex systems.
@@ -45,7 +46,7 @@ title: "Resources"
 
 {{< accordion "<div><i class='fa-solid fa-award pr-4'></i>a position</div>" >}}
 
-- [Our Discord server](https://discord.gg/yFmVMZ29) has a specific subchannel dedicated to new job opportunities. Join the Discord to always be updated, or contact us by email if you have a job opportunity you want to share.
+- [Our Discord server]({{< get_social_link "discord" >}}) has a specific subchannel dedicated to new job opportunities. Join the Discord to always be updated, or contact us by email if you have a job opportunity you want to share.
 - [CSS job page](https://cssociety.org/job-openings) regularly publishes job opportunities related to complex systems.
 - [NetSci job page](https://www.netscisociety.net/jobs) regularly publishes job opportunities related to network science.
 
@@ -62,6 +63,7 @@ title: "Resources"
 
 {{< accordion "<div><i class='fa-solid fa-book-open-reader pr-4'></i>to learn</div>" >}}
 
+**Schools**
 - [Lipari School (J.T. Schwartz School for Scientific Research)](https://liparischool.it/) offers different summer schools on topics relevant to complex systems and network science.
 - [Lake Como School of Advanced Studies](https://lakecomoschool.org/schools/) offers summer schools with focus on different complex systems topics.
 - [Mediterranean School of Complex Networks](https://mediterraneanschoolcomplex.net/) is a week-long school that focuses on theory and applications of network science. 
@@ -69,10 +71,17 @@ title: "Resources"
 - [Complexity Science Hub Vienna Winter School](https://csh.ac.at/education/winterschool/) a winter school focused on how complex systems research can inform solutions to big societal problems. 
 - [Santa Fe Institute Complex Systems Summer School](https://santafe.edu/engage/learn/programs/sfi-complex-systems-summer-school) is a one-month program that allows you to learn about about fundamental questions in complex systems and collaborate with your peers on a research project.
 
+**Podcasts**
+- [Complexity Thoughts Podcast](https://open.spotify.com/show/2lxHtogJFoUctVa4XGJuJ9?si=c76a64b0bfac4289): Real systems, from cells to societies, are inherently complex. They are characterized by simple units which, once interconnected with each other, generate unexpected patterns that lead to complex and fascinating phenomena. This is the AI-generated podcast of [Complexity Thoughts](https://manlius.substack.com/archive)!
+- [Simplifying Complexity](https://podcasts.apple.com/us/podcast/simplifying-complexity/id1651582236 ): Simplifying Complexity is a podcast about the underlying principles of complex systems. On the show, we explore the key concepts of complexity science with expert minds from around the world. Each episode focuses on an interview where we break down a specific concept in detail.
+- [Sean Carroll's Mindscape](https://podcasts.apple.com/us/podcast/sean-carrolls-mindscape-science-society-philosophy/id1406534739): Ever wanted to know how music affects your brain, what quantum mechanics really is, or how black holes work? Do you wonder why you get emotional each time you see a certain movie, or how on earth video games are designed? Then you've come to the right place. Each week, Sean Carroll will host conversations with some of the most interesting thinkers in the world. From neuroscientists and engineers to authors and television producers, Sean and his guest talk about the biggest ideas in science, philosophy, culture and much more.
+- [Quanta Podcast](https://www.quantamagazine.org/tag/quanta-podcast/): Susan Valot narrates in-depth news episodes based on [Quanta Magazine](https://www.quantamagazine.org/)'s articles about mathematics, physics, biology and computer science.
+- [COMPLEXITY Podcast](https://complexity.simplecast.com/): The official podcast of the Santa Fe Institute.
+
 {{< /accordion >}}
 
 {{< accordion "<div><i class='fa-solid fa-globe pr-4'></i>to keep in touch with the community online</div>" >}}
-- [Our Discord server](https://discord.gg/yFmVMZ29) is the perfect platform to meet other researchers in the community. Here you can get all kinds of updates related to our community, and ask any kind of question to fellow researchers.
+- [Our Discord server]({{< get_social_link "discord" >}}) is the perfect platform to meet other researchers in the community. Here you can get all kinds of updates related to our community, and ask any kind of question to fellow researchers.
 - [NetSci Outreach page](https://www.netscisociety.net/outreach) contains an extensive set of resources useful for any scientist starting in network science (e.g. books, seminars, software, research centers...).
 - [NetSci Colloquium](https://www.netscisociety.net/events/colloquium) regular online seminars organized by the Network Science Society. Mostly focused on network science research. 
 - [Santa Fe Institute Educational Programs](https://santafe.edu/engage/learn/overview) list of resources for researchers at all levels interested in following all the complex systems' programs organized by the Santa Fe Institute.
@@ -104,4 +113,4 @@ title: "Resources"
 
 {{< /accordion >}}
 
-Have a resource you'd like added to this page? Please contact us on our <u>[discord server](https://discord.gg/w3gppwZMyb)</u> and we'll add it.
+Have a resource you'd like added to this page? Please contact us on our <u>[discord server]({{< get_social_link "discord" >}})</u> and we'll add it.

@@ -7,7 +7,7 @@ Complexity and Networks COmmunity and REsources (CORE) is an organization dedica
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
   <a
     class="btn btn-primary"
-    href="https://discord.gg/w3gppwZMyb"
+    href="{{< get_social_link "discord" >}}"
     target="_blank" rel="noopener">
     Join us on Discord
     <i class="fa fa-arrow-right pl-2"></i>

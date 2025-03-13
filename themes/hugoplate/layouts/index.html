@@ -12,10 +12,20 @@
           </p>
           {{ with .button }}
             {{ if .enable }}
+              {{ $link := "" }}
+              {{ if .link }}
+                {{ $link = .link }}
+              {{ else }}
+                {{ range site.Data.social.main }}
+                  {{ if eq .name $.Params.banner.button.social }}
+                    {{ $link = .link }}
+                  {{ end }}
+                {{ end }}
+              {{ end }}
               <a
                 class="btn btn-primary"
-                href="{{ .link | absURL }}"
-                {{ if strings.HasPrefix .link `http` }}
+                href="{{ $link | absURL }}"
+                {{ if strings.HasPrefix $link `http` }}
                   target="_blank" rel="noopener"
                 {{ end }}>
                 {{ .label }}

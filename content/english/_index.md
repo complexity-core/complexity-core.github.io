@@ -7,5 +7,5 @@ banner:
   button:
     enable: true
     label: "Join us on Discord"
-    link: "https://discord.gg/w3gppwZMyb"
+    social: discord
 ---
