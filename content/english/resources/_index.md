@@ -77,7 +77,10 @@ title: "Resources"
 - [Sean Carroll's Mindscape](https://podcasts.apple.com/us/podcast/sean-carrolls-mindscape-science-society-philosophy/id1406534739): Ever wanted to know how music affects your brain, what quantum mechanics really is, or how black holes work? Do you wonder why you get emotional each time you see a certain movie, or how on earth video games are designed? Then you've come to the right place. Each week, Sean Carroll will host conversations with some of the most interesting thinkers in the world. From neuroscientists and engineers to authors and television producers, Sean and his guest talk about the biggest ideas in science, philosophy, culture and much more.
 - [Quanta Podcast](https://www.quantamagazine.org/tag/quanta-podcast/): Susan Valot narrates in-depth news episodes based on [Quanta Magazine](https://www.quantamagazine.org/)'s articles about mathematics, physics, biology and computer science.
 - [COMPLEXITY Podcast](https://complexity.simplecast.com/): The official podcast of the Santa Fe Institute.
-
+- [Knitting Networks](https://creators.spotify.com/pod/profile/tejiendoredes/): Here, you will find conversations with people who work on network analysis. You will hear about its history, literature recommendations, and some of the latest methodological/theoretical advances.
+- [NETfrix](https://en.snapod.net/): NETfrix is the 1st podcast dedicated to Network Science (or: the dark side of Data Science). "With great power comes great responsibility" and Network Analysis is as powerful as it gets so be careful.
+- [Complexity Papers](https://www.youtube.com/@complexitypapers/videos): A channel on the mathematics of complex systems, featuring dynamics, networks, game theory, and such things. All content is produced by Thilo Gross.  Thilo is professor for biodiversity theory at HIFMB. HIFMB is a collaboration of the Alfred-Wegener Institute, Helmholtz Center for Polar and Marine Research, and the Carl-von-Ossietzky University of Oldenburg. 
+  
 {{< /accordion >}}
 
 {{< accordion "<div><i class='fa-solid fa-globe pr-4'></i>to keep in touch with the community online</div>" >}}
