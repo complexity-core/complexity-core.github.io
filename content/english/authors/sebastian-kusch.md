@@ -2,6 +2,7 @@
 title: Sebastian Kusch
 image: "/images/contributors_pictures/sebastian-kusch.jpeg"
 description: PhD Candidate at IT:U Austria.
+website: https://bastikusch.github.io
 social:
   - name: github
     icon: fa-brands fa-github
