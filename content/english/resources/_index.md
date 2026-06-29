@@ -7,12 +7,12 @@ title: "Resources"
 
 {{< accordion "<div><i class='fa-solid fa-microphone pr-4'></i>to present my work</div>" >}}
 **Conferences**
-- [CCS](https://ccs25.cssociety.org) is the flagship conference for the complex systems research community. It is organized yearly by the Complex Systems Society, alternating the venue between within and outside Europe. The conference also holds [Satellite sessions](https://ccs25.cssociety.org/satellite-2/) before the main conference. These are specialized, smaller-scale events focusing on specific topics within complex systems.
+- [CCS](https://ccs26.cssociety.org) is the flagship conference for the complex systems research community. It is organized yearly by the Complex Systems Society, alternating the venue between within and outside Europe. The conference also holds Satellite sessions before the main conference. These are specialized, smaller-scale events focusing on specific topics within complex systems.
 - [CompleNet](https://complenet.weebly.com) brings together researchers and practitioners from diverse disciplines working on areas related to complex networks. As a particularity, it is usually a single-track conference (without parallel sessions). 
-- [IC2S2](https://www.ic2s2-2025.org/) is the International Conference on Computational Social Science. It lies at the intersection of social and computational science, attracting researchers from fields like: sociology, economics, political science, psychology, cognitive science, management, computer science, and statistics.
+- [IC2S2](https://ic2s2-2026.org/) is the International Conference on Computational Social Science. It lies at the intersection of social and computational science, attracting researchers from fields like: sociology, economics, political science, psychology, cognitive science, management, computer science, and statistics.
 - [LoG](https://logconference.org/) is an annual research conference that covers areas broadly related to machine learning on graphs and geometry. It offers the possibility of following it online (for free).
-- [NetSci](https://www.netscisociety.net/events/netsci) is the flagship conference on network science, organized by the Network Science Society. The conference also holds [Satellite sessions](https://netsci2025.github.io/satellites/) before the main conference. These are specialized, smaller-scale events focusing on specific topics within network science.
-- [NetSciX](https://netscix2025.iiti.ac.in) extends the popular NetSci conference to provide an additional forum for a growing community of researchers and practitioners working in the emergent areas of network science. It usually holds in winter.
+- [NetSci](https://www.netscisociety.net/events/netsci) is the flagship conference on network science, organized by the Network Science Society. The conference also holds Satellite sessions before the main conference. These are specialized, smaller-scale events focusing on specific topics within network science.
+- [NetSciX](https://netscix2027.github.io) extends the popular NetSci conference to provide an additional forum for a growing community of researchers and practitioners working in the emergent areas of network science. It usually holds in winter.
 - [Dynamic Days](https://www.dynamicsdays.info) are international conferences on theory and applications of nonlinear dynamics.
 
 
@@ -36,8 +36,8 @@ title: "Resources"
 - [Our Discord server]({{< get_social_link "discord" >}}) is the perfect platform to meet other researchers in the community. You are only one click away from starting new scientific collaborations.
   
 **Workshops**
-- [Winter Workshop on Complex Systems](https://wwcs2025.github.io) is a one-week workshop where young researchers worldwide come together to work on interdisciplinary projects around complex systems.
-- [Complexity72h](https://complexity72h.com) is an interdisciplinary workshop for young researchers in complex systems, where you team up with other early-career researchers to develop a project and submit the results on arXiv in just 72 hours, guided by the tutors.
+- [Winter Workshop on Complex Systems](https://wwcs2027.github.io) is a one-week workshop where young researchers worldwide come together to work on interdisciplinary projects around complex systems.
+- [Complexity72h](https://www.complexitynextgen.org/complexity72h/) is an interdisciplinary workshop for young researchers in complex systems, where you team up with other early-career researchers to develop a project and submit the results on arXiv in just 72 hours, guided by the tutors.
 - [Complex Networks Winter Workshop](https://vermontcomplexsystems.org/events/past-events/) is a bi-yearly workshop on network science and complex systems centered around collaborative problem-solving.
 - [The International Workshop on Complex Systems](https://complexsystems.physics.unitn.it/iwcs/) is organised every three years and it aims at being an instrumental meeting point for the broad community working in this field. Since its first edition, the workshop emphasizes new results obtained by experimentalists, theoreticians, and computational scientists.
 
@@ -67,7 +67,7 @@ title: "Resources"
 - [Lipari School (J.T. Schwartz School for Scientific Research)](https://liparischool.it/) offers different summer schools on topics relevant to complex systems and network science.
 - [Lake Como School of Advanced Studies](https://lakecomoschool.org/schools/) offers summer schools with focus on different complex systems topics.
 - [Mediterranean School of Complex Networks](https://mediterraneanschoolcomplex.net/) is a week-long school that focuses on theory and applications of network science. 
-- [NETHIKE](https://sn.ethz.ch/nethike.html) a summer school focused on basics and advanced topics of network science in the context of sociological theory and research.
+- [NETHIKE](https://sn.ethz.ch/events/nethike.html) a summer school focused on basics and advanced topics of network science in the context of sociological theory and research.
 - [Complexity Science Hub Vienna Winter School](https://csh.ac.at/education/winterschool/) a winter school focused on how complex systems research can inform solutions to big societal problems. 
 - [Santa Fe Institute Complex Systems Summer School](https://santafe.edu/engage/learn/programs/sfi-complex-systems-summer-school) is a one-month program that allows you to learn about about fundamental questions in complex systems and collaborate with your peers on a research project.
 
@@ -89,7 +89,6 @@ title: "Resources"
 - [NetSci Colloquium](https://www.netscisociety.net/events/colloquium) regular online seminars organized by the Network Science Society. Mostly focused on network science research. 
 - [Santa Fe Institute Educational Programs](https://santafe.edu/engage/learn/overview) list of resources for researchers at all levels interested in following all the complex systems' programs organized by the Santa Fe Institute.
 - [BeyondTheEdge Seminar Series](https://www.beyondtheedge.network/events) online seminar series organized by the doctoral network BeyondTheEdge. They are focused on hypergraphs and higher-order networks. 
-- [NetPlace Seminars](https://netplace.site) are online seminars held every two weeks, where organizers, speakers and the audience are all students and early-career researchers in network science and complexity. They are followed up by a brief discussion about difficulties that can be encountered during the academic path. 
 - [WiNS Seminars](https://sites.google.com/view/womeninnetworkscience/) are online interdisciplinary seminars with the aim to promote and showcase research by women and nonbinary researchers in network science.
 - [CSH Vienna Educational Programs](https://csh.ac.at/education/) list of resources for researchers at all levels interested in following all the complex systems' programs shared by Complexity Science Hub.
 - [Neural Modeling Community Discord Channel](https://discord.gg/scSeUkWrzG) computational neuroscience community.
@@ -101,15 +100,15 @@ title: "Resources"
 - The [US Northeast Chapter of the CSS](https://sites.google.com/binghamton.edu/css-usne) provides researchers and students working on complex systems in the US Northeast region with a professional venue where they can share their work, network with peers and potential collaborators, and achieve further professional development. Every year they organise the [Northeast Regional Conference on Complex Systems (NERCCS)](https://sites.google.com/binghamton.edu/css-usne/activities).
 
 **Spain**
-- [FisEs Joven](https://fisesjoven24.gefenol.es), i.e., the "Reunión de Física Estadística Joven", is a congress specifically targetting young researchers working in the fields of statistical physics and other multidisciplinary applications. It has been organized both as an in-person and online event. 
+- [FisEs Joven](https://fisesjoven26.gefenol.es), i.e., the "Reunión de Física Estadística Joven", is a congress specifically targetting young researchers working in the fields of statistical physics and other multidisciplinary applications. It has been organized both as an in-person and online event. 
 - [BIFI Conference](https://bifi.es/calendar/), i.e., the National/International conference BIFI, is an annual conference organized by the  Institute for Bio-computation and Physics of Complex Systems of the University of Zaragoza. It provides an opportunity for participants to share their latest findings across the Institute’s diverse research fields: from Physics and Computation to Bio-Physics, Bio-Chemistry, and Cell and Molecular Biology.
 - The [Spanish Chapter of the CSS](https://cs3.es/) gathers researchers in complex systems and other areas of potential interaction in [an annual meeting](https://cs3.es/conference/) celebrated somewhere in Spain.
 
 **France**
-- The [French Chapter of the CSS](https://css-fr.org) gathers researchers in complex systems and other areas of potential interaction in [an annual meeting](https://conferences.css-fr.org) celebrated somewhere in France.
+- The [French Chapter of the CSS](http://css-fr.org) gathers researchers in complex systems and other areas of potential interaction in [an annual meeting](https://conferences.css-fr.org) celebrated somewhere in France.
 
 **Italy**
-- The [Italian Chapter of the CSS](https://italy.cssociety.org) aims at coordinating regional efforts to foster new scientific collaborations and participation to Italian, EU and international projects. CSS/Italy shares and promotes initiatives such as workshops, schools and seminars focused on complex systems in the Italian territory, in synergy with local existing initiatives and entities from other disciplines. 
+- The [Italian Chapter of the CSS](https://cssitaly.org/) aims at coordinating regional efforts to foster new scientific collaborations and participation to Italian, EU and international projects. CSS/Italy shares and promotes initiatives such as workshops, schools and seminars focused on complex systems in the Italian territory, in synergy with local existing initiatives and entities from other disciplines. 
 
 **Netherlands**
 - [NetSciNL](https://www.netsci.nl/) is an official chapter of the International Network Science Society (NetSci). They organize two annual meetings around the country.
